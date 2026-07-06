@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/orion-lms/codebase.git'
+    repoURL: 'https://github.com/Saswatbisi/GitOps-Advanced-Git-Workflows.git'
     targetRevision: HEAD
     path: k8s/production
   destination:
